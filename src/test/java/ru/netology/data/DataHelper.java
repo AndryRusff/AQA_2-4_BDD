@@ -56,7 +56,7 @@ public class DataHelper {
   }
 
   public static TransferInfo getSecondCardTransferInfoNegative() {
-    return new TransferInfo(20_000, "5559 0000 0000 0001");
+    return new TransferInfo(20_001, "5559 0000 0000 0001");
   }
 
   public static TransferInfo setFirstCardTransferInfo(int amountTransfer) {
